@@ -9,4 +9,4 @@ I am not liable for any harm done with this. Dont be cumming to me.
 
 
 
-to run do **"python main.py"**
+to run do **"python main.py <token> "**
